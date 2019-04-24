@@ -1,7 +1,7 @@
 # Site
 title:              devHyunsuk2's Blog.
-bio:                '개인 개발일지.'
-description:        "개인용 기록 블로그"
+bio:                '개인 개발 노트.'
+description:        "개인 기록 블로그"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -38,8 +38,8 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
+# twitter:            username
+# facebook:           username
 github-url:         https://github.com/devhyunsuk2
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
@@ -50,7 +50,7 @@ instagram:          junghyunsuk1234
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+# steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
