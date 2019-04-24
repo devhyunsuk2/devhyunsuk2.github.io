@@ -8,6 +8,7 @@
 
 ## Features
 * Minimal, you can focus on your content
+* yayaya
 * Responsive
 * Disqus integration
 * Syntax highlighting
