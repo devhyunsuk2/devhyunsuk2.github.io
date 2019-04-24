@@ -2,36 +2,30 @@
 layout: page
 title: About the Theme
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
-comments: false
+date: 2019-04-24
+comments: true
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>이 <a href="http://devhyunsuk2.github.io"><b>Blog</b></a>는 개인용 R&D 기록 블로그이자 포트폴리오 용도로 사용되어지고 있습니다.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## INDEX
+* Arduino 
+* Unity3D 
+* 3D Graphic
+* Media Art
+* Portfolio
+* Review
+* Sensors
 
-## Preview
+## HOST
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+개발하는 현석이
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+[Github](https://github.com/)
+[Instagram](https://www.instagram.com/junghyunsuk1234/)
 
-## Getting Started
+## DESCRIPTION
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+인터렉티브 미디어 콘텐츠 개발자.
+Unity3D로 개발하고있습니다.
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
