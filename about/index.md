@@ -1,9 +1,9 @@
 ---
 layout: page
 title: About the Theme
-tags: [about, Jekyll, theme, moon]
+tags: [about]
 date: 2019-04-24
-comments: true
+comments: false
 ---
     
 <center>이 <a href="http://devhyunsuk2.github.io"><b>Blog</b></a>는 개인용 R&D 기록 블로그이자 포트폴리오 용도로 사용되어지고 있습니다.</center>
@@ -28,4 +28,3 @@ comments: true
 
 인터렉티브 미디어 콘텐츠 개발자.
 Unity3D로 개발하고있습니다.
-      
