@@ -2,8 +2,8 @@
 layout: post
 title: "쉐이더 그래프 만지기_01_오브젝트 디졸브 효과"
 date: 2019-05-27
-excerpt: "센서 R&D"
-tags: [UST, Sensor, Unity]
+excerpt: "유니티 쉐이더 그래프"
+tags: [Unity, Shader]
 comments: true
 ---
 # 쉐이더그래프 - 오브젝트 디졸브 효과
