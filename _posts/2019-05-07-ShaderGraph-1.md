@@ -49,7 +49,7 @@ comments: true
 ## Dissolve 쉐이더 만들기
 
 <figure>
-    <img src="https://i.imgur.com/EnKW1no.png">
+    <a href="https://i.imgur.com/EnKW1no.png"><img src="https://i.imgur.com/EnKW1no.png"></a>
 </figure>
 
 Dissolve는 AlphaClipThrehold를 조금 이해하고있는것이 좋다. PBR Master의 AlphaClipThrehold의 방식은 0.7을 기준으로
