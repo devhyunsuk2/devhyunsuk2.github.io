@@ -62,9 +62,9 @@ Dissolve는 AlphaClipThrehold를 조금 이해하고있는것이 좋다. PBR Mas
 
 <img src="https://i.imgur.com/YyRZGcX.gif">
 
-<img src="https://i.imgur.com/Ojmsfvs.gifv">
+<img src="https://i.imgur.com/Ojmsfvs.gif">
 
-<img src="https://i.imgur.com/d4omPzu.gifv">
+<img src="https://i.imgur.com/d4omPzu.gif">
 
 수치를 조정하여 여러효과를 낼 수 있다.
 아티스트라면 Parameter를 조정해가면서 컨셉에 맞는 비주얼 솔루션을 쉽게 도출해낼수있을것같다.
