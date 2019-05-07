@@ -60,8 +60,10 @@ Dissolve는 AlphaClipThrehold를 조금 이해하고있는것이 좋다. PBR Mas
 
 ## 결과
 
-<img src="https://i.imgur.com/YyRZGcX.gifv">
+<img src="https://i.imgur.com/YyRZGcX.gif">
+
 <img src="https://i.imgur.com/Ojmsfvs.gifv">
+
 <img src="https://i.imgur.com/d4omPzu.gifv">
 
 수치를 조정하여 여러효과를 낼 수 있다.
